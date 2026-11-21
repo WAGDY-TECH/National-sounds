@@ -1,0 +1,4 @@
+# One diacritization engine is enough. The server itself uses only the standard library.
+mishkal
+# Higher quality (neural, made for TTS): build pylibtashkeel from source,
+# see https://github.com/mush42/libtashkeel  (folder: pylibtashkeel, uses maturin)
